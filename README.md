@@ -1,2 +1,2 @@
 # jsprojects
-JavaScript projects με Jquerry
+JavaScript projects with Jquerry library
